@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D>
+    <Scene>
+        <Transform>
+            <Shape>
+                <TriangleSet2D vertices='5.1 5.5 120.2 170.4 167.2 50.1'/>
+                <Appearance>
+                    <Material diffuseColor='0 0 1'/>
+                </Appearance>
+            </Shape>
+        </Transform>
+    </Scene>
+</X3D>
